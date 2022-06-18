@@ -1,12 +1,13 @@
 body{
 background-color: rgb(89, 193, 207);
-font:normal  15pt arial;
+font: bold  20pt arial;
 }
 header{
     color: white;
     text-align: center;
 }
 section{
+    
     background-color: white;
     border-radius: 10px;
     padding: 15px;
